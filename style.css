@@ -1,0 +1,98 @@
+/*style*/
+
+body {
+	background-color: rgba(211, 141, 175,0.08);
+	background-image:url(images<!--/logo.png-->);
+	background-repeat:no-repeat;
+	background-position: 1000px 210px;
+	color:#B05883;
+	font-size: 16px;
+}
+
+.Bienvenue{
+	text-align: center;
+	margin: 110px;
+}
+
+div#conteneur
+{
+	width: 1400px ;
+	margin: 0 auto ;
+	text-align: left ;
+	border: 2px solid #F57BCA ;
+	background: #fff ;
+}
+
+header {
+	
+	display: block;
+	background-color: rgba(211, 141, 175,0.2); 
+	text-align: center;      
+	font-size: 18pt;
+	padding: 5px;
+}
+
+h1{
+	color:#F26696;
+	text-align:center;
+	margin-top: 30px;
+}
+
+
+h2{
+	color:#F26696;
+	margin: 30px 75px;
+}
+
+body a:hover{
+	color: #51623A;
+
+}
+
+p{
+	margin: 30px 75px;
+}
+
+a{
+	color: #E077A5
+	
+}
+
+nav.menu ul li.btn {
+	display: table-cell;
+	list-style-type: none;
+	padding: 2px
+}
+
+
+nav.menu ul li.btn a{
+	text-decoration: none;
+	padding: 5px;
+	background-color: rgba(211, 141, 175,0.2);  
+	border : 1px solid #F26696;
+	color: #6A123D
+}
+
+nav.menu ul li.btn:hover a{ 
+	background-color: #B05883;
+	color: #E3B6CA;
+	transition: 0.3s all;
+}
+
+ul{
+	margin: 30px 75px;
+	padding: 10px;
+}
+
+
+
+footer{
+	font-style: italic;
+	background-color: rgba(211, 141, 175,0.2); 
+	padding: 5px;
+	color:#F26696;
+}
+
+
+
+}

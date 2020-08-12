@@ -1,0 +1,89 @@
+/*mathématiques*/
+
+body {
+background-color: rgba(211, 141, 175,0.08);
+background-image:url(../../images<!--/logo.png-->);
+background-repeat: no-repeat;
+background-position: 1000px 100px;
+margin: 30px 75px;
+color: black;
+font-size: 16px;
+}
+
+* {box-sizing: border-box;}
+
+
+
+div#conteneur
+{
+	width: 1400px ;
+	height:justify-content: space-between;
+	margin: 0 auto;
+	text-align:center;
+	border: 2px solid #F57BCA ;
+	background: #fff ;
+
+}
+
+/*div#contenu {
+	
+	padding: 30px;
+	/*display: flex;
+	flex-wrap: wrap;
+	align-content: auto;
+	align-items: center;
+	margin: 20px
+	float:left;
+
+}
+
+.item:first-child {
+	flex-direction: row; 
+	align-self: stretch;
+}*/
+
+.item{
+	background: #fff ;
+	text-align: center;
+	margin: 5px auto;
+	padding: 10px;
+	border: 2px solid #F57BCA ;
+	width: 465px;
+	height: 550px;
+	float: left;
+	display: inline-block;
+
+
+}
+
+h2{
+	color: #F26696;
+}
+
+h3{
+	color: #F26696;
+	text-align: left;
+	margin: 15px 
+}
+
+body a:hover{
+	color: #51623A;
+}
+
+a{
+	color: #E077A5
+}
+
+p{
+	color: #B05883
+	text-align:left;
+}
+
+ul{
+	text-align: left;
+}
+
+
+
+
+
